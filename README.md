@@ -1,5 +1,5 @@
 ### Olá! Sou a Viviane  
-- 🔭 Trabalho como Analista de Sistemas
+- 🔭 Trabalho como Engenheira de dados
 - 🌱 Estudo Python
 
   <a href="https://github.com/VivianeGS">
@@ -12,7 +12,6 @@
   <img align="center" alt="oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="powerbi" height="30" width="30" src="https://downloadly.net/wp-content/uploads/2020/03/Power-BI-Report-Server.png">
 </div>
   
   ##
